@@ -1,0 +1,15 @@
+p{margin: 15px}
+li{
+  background: gray;
+  margin: 5px;
+}
+
+.odd-li {
+  background: #999999;
+  margin: 5px;
+}
+
+.last-li{
+  background: #0062cc;
+  margin: 5px;
+}
